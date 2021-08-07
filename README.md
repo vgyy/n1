@@ -1,5 +1,5 @@
 ### n1
-<!DOCTYPE html>
+
 
 <html>
     <head>
@@ -16,9 +16,9 @@
     
 <div style="color: #fff;">
 <h1>my</h1>
-</center>
+
         
 </div>
 <script src="" ></script>
 </body>
-</html>
+
